@@ -12,7 +12,7 @@ npm install -g gitbook --registry=https://registry.npm.taobao.org
 
 安装插件
 
-gitbook  install
+gitbook  install .
 
 转换成pdf
 
